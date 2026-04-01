@@ -26,8 +26,8 @@ PikoClaw helps you **finish tasks**.
 * No babysitting agents
 * No broken workflows
 * Just results
-* 
---
+
+---
 
 ## 🤝 Contributing
 
