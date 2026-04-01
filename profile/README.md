@@ -7,7 +7,7 @@ From writing code to fixing bugs and shipping features, PikoClaw agents are desi
 
 ---
 
-## ⚡ What is PikoClaw?
+## What is PikoClaw?
 
 PikoClaw is an AI-powered development system focused on:
 
@@ -26,17 +26,8 @@ PikoClaw helps you **finish tasks**.
 * No babysitting agents
 * No broken workflows
 * Just results
-
----
-
-## Features (WIP)
-
-* 🧠 Multi-step task execution
-* 🔄 Self-correcting agents
-* 📂 Repo-aware context handling
-* ⚡ Fast & efficient runtime
-
--- 
+* 
+--
 
 ## 🤝 Contributing
 
